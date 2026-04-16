@@ -93,7 +93,4 @@ This repository may include:
 - Mini-projects  
 - Final project  
 
----
 
-## 📬 Contact
-For questions or collaboration, feel free to reach out.
